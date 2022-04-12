@@ -18,5 +18,3 @@ int main()
         fahr = fahr + step;
     }
 }
-
-/* Contunue at 1-3 */
